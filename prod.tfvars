@@ -1,5 +1,5 @@
 resource_group_name = "rg-sqldb-prod"
-location            = "East US"
+location            = "Central US "
 sql_server_name     = "sql-server-prod"
 sql_database_name   = "sqldb-prod"
 admin_username      = "sqladmin"
