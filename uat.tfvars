@@ -1,5 +1,5 @@
 resource_group_name = "rg-sqldb-uat"
-location            = "East US"
+location            = "Central US "
 sql_server_name     = "sql-server-uat"
 sql_database_name   = "sqldb-uat"
 admin_username      = "sqladmin"
